@@ -1,0 +1,2 @@
+log_name,combination,epoch,train_loss,test_loss,best_test_loss,train_accuracy,train_macro avg_precision,train_macro avg_recall,train_macro avg_f1-score,train_weighted avg_precision,train_weighted avg_recall,train_weighted avg_f1-score,test_accuracy,test_macro avg_precision,test_macro avg_recall,test_macro avg_f1-score,test_weighted avg_precision,test_weighted avg_recall,test_weighted avg_f1-score
+Helpdesk_no_resources_100_k,results_0.001_lr_0_l_64_s_2_h,16,0.76583484,0.63954531,True,72.46,20.74,25.09,22.67,60.08,72.46,65.6,83.4,23.98,26.68,25.25,74.75,83.4,78.8
